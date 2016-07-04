@@ -1,0 +1,4 @@
+set relativenumber
+let mapleader=","
+map ; :
+nmap <Leader>ev :e ~/.ideavimrc<cr>
